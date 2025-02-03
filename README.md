@@ -1,2 +1,1 @@
-# quad_control
-RBE 502
+Trajectory following using optimal control methods in a quadcopter
